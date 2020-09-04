@@ -7,4 +7,3 @@ Membros:
 - Guilherme Faleiros de Siqueira
 - Igor Pimenta Araújo
 - Rafael Augusto
-- Andrey Dias Rodrigues
